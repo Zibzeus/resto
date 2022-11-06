@@ -3,7 +3,7 @@
 
 Nama : Mochamad Najib Budi Noorsyahbannie\
 NIM : 1207050135\
-Kelas : Praktikum Mobile C C\
+Kelas : Praktikum Mobile C 
 
 ## Screenshots
 ![WhatsApp Image 2022-11-06 at 21 28 35 (2)](https://user-images.githubusercontent.com/82931864/200177476-295ff8ab-7ed7-44ca-8cfc-b33544a1788c.jpeg)
